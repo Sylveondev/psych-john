@@ -82,7 +82,7 @@ class AtlasFrameMaker extends FlxFramesCollection{
 				#else
 				
 				//var paf = 'assets/images/$key/spritemap.png' ;
-				bitmapData = Assets.getBitmapData(paf);//new BitmapData(0,1);
+				//bitmapData = Assets.getBitmapData(paf);//new BitmapData(0,1);
 				#end
 				
 				
